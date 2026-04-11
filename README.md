@@ -2,6 +2,8 @@
 
 A Flutter plugin for interfacing with Mentalab Explore devices. This package provides a simple API to connect to Explore devices, process and record biosignal data, measure impedance, configure, and apply digital filters.
 
+Explore Flutter core can also be used in a pure Android or iOS framework. A guideline to embed the Mentalab Flutter API is [here](https://github.com/Mentalab-hub/explore-flutter-core-public/blob/main/native/README.md).
+
 > ⚠️ **Note:** This package only supports Bluetooth Low Energy (BLE) connections. Bluetooth Classic is not supported.
 
 ## Features
