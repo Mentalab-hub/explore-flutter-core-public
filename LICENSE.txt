@@ -1,0 +1,73 @@
+MENTALAB MOBILE API LICENSE AGREEMENT
+
+Version 1.0
+Copyright (c) 2026 Mentalab GmbH. All Rights Reserved.
+
+IMPORTANT: BY ACCESSING, INSTALLING, OR USING THIS SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE AGREEMENT.
+
+1. DEFINITIONS
+
+"API" means the Mentalab mobile application programming interface, currently distributed as a Flutter (Dart) package, including all source code, libraries, binaries, documentation, and any related materials provided by Mentalab GmbH.
+
+"Licensee" means any individual or legal entity using the API.
+
+"Software" refers collectively to the API and all associated components.
+
+2. LICENSE GRANT
+
+Subject to compliance with this Agreement, Mentalab GmbH grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to:
+
+* Use the API solely for developing and distributing applications that integrate with Mentalab products and services.
+* Include the API as a dependency within Licensee’s applications.
+
+3. RESTRICTIONS
+
+Licensee shall not, and shall not permit any third party to:
+
+* Redistribute, publish, disclose, sell, rent, lease, sublicense, or otherwise make the API available separately from Licensee’s application.
+* Share, expose, or distribute the API source code or compiled artifacts as a standalone library.
+* Upload the API to public or private repositories, package managers, or code-sharing platforms.
+* Modify, adapt, translate, or create derivative works based on the API.
+* Reverse engineer, decompile, or disassemble the API, except where such restriction is prohibited by applicable law.
+* Remove, alter, or obscure any copyright, trademark, or proprietary notices.
+
+4. DISTRIBUTION
+
+Licensee may distribute compiled applications that incorporate the API, provided that:
+
+* The API remains embedded within the application.
+* The API is not separately accessible, extractable, or reusable as a standalone component.
+
+5. OWNERSHIP
+
+The API is licensed, not sold.
+
+All rights, title, and interest in and to the API, including all intellectual property rights, remain exclusively with Mentalab GmbH.
+
+No rights are granted except those expressly stated in this Agreement.
+
+6. TERMINATION
+
+This Agreement is effective until terminated.
+
+Any breach of this Agreement automatically terminates the license.
+
+Upon termination, Licensee must immediately cease use of the API and destroy all copies in their possession or control.
+
+7. DISCLAIMER OF WARRANTY
+
+THE API IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, MENTALAB GMBH SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE API.
+
+9. GOVERNING LAW
+
+This Agreement shall be governed by the laws of the Federal Republic of Germany.
+
+Exclusive jurisdiction for all disputes shall be the courts of Munich, Germany.
+
+10. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between Mentalab GmbH and the Licensee regarding the API and supersedes all prior agreements or understandings.
