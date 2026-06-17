@@ -1,6 +1,6 @@
 # ⚖️ License Notice
 
-**IMPORTANT:** This project is licensed under an End-User License Agreement (EULA). Please review and accept the terms in the [LICENSE](./LICENSE) file before using this software. By using, copying, or distributing this software, you agree to be bound by the terms of the EULA.
+**IMPORTANT:** This project is licensed under an End-User License Agreement (EULA). Please review and accept the terms in the [LICENSE](./LICENSE.txt) file before using this software. By using, copying, or distributing this software, you agree to be bound by the terms of the EULA.
 
 # Mentalab Explore Core SDK
 
