@@ -251,6 +251,15 @@ The `explore_flutter_core` package is designed to facilitate communication with 
     }
     ```
 
+## Examples
+
+| Location | Purpose |
+|---|---|
+| [`example/example_app/`](./example/example_app/) | Full Flutter sample app |
+| [`example/add_to_app/android_host/`](./example/add_to_app/android_host/) | SDK in a native Android app |
+| [`example/add_to_app/rn_host/`](./example/add_to_app/rn_host/) | SDK in a React Native app (iOS + Android) |
+| [`example/add_to_app/flutter_module/`](./example/add_to_app/flutter_module/) | Shared Flutter module used by the add-to-app samples |
+
 ## Disclaimer
 
 The Mentalab Explore Pro API and hardware are intended strictly for research and educational applications.
