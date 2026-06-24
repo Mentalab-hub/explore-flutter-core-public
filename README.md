@@ -41,7 +41,7 @@ import 'package:explore_flutter_core/explore_flutter_core.dart';
 The plugin automatically includes all necessary dependencies, including [`flutter_blue_plus`](https://github.com/boskokg/flutter_blue_plus).
 
 ## Usage
-For comprehensive examples, please refer to the [examples folder](./example/).
+For comprehensive examples, please refer to the examples folder in the source.
 
 ### Initialization & Connection
 
@@ -255,10 +255,10 @@ The `explore_flutter_core` package is designed to facilitate communication with 
 
 | Location | Purpose |
 |---|---|
-| [`example/example_app/`](./example/example_app/) | Full Flutter sample app |
-| [`example/add_to_app/android_host/`](./example/add_to_app/android_host/) | SDK in a native Android app |
-| [`example/add_to_app/rn_host/`](./example/add_to_app/rn_host/) | SDK in a React Native app (iOS + Android) |
-| [`example/add_to_app/flutter_module/`](./example/add_to_app/flutter_module/) | Shared Flutter module used by the add-to-app samples |
+| `example/example_app/` | Full Flutter sample app |
+| `example/add_to_app/android_host/` | SDK in a native Android app |
+| `example/add_to_app/rn_host/` | SDK in a React Native app (iOS + Android) |
+| `example/add_to_app/flutter_module/` | Shared Flutter module used by the add-to-app samples |
 
 ## Disclaimer
 
